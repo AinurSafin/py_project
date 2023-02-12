@@ -3,3 +3,7 @@ def sum_numbers(numbers):
     for number in numbers:
         total += number
     return total
+
+
+def subtraction(x,y):
+    return x - y
